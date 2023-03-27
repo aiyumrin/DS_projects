@@ -4,7 +4,7 @@
 # DS-projects
 В репозитории находятся выполненные мной ML проекты.
 
-## [Gold Recovery](Gold_recovery.ipynb)
+## [Gold Recovery](Gold_recovery/Gold_recovery.ipynb)
 
 <image src="images/img_2.jpg">
 
@@ -63,7 +63,7 @@ $$sMAPE_{итоговое}=0.25*{sMAPE}(rougher) + 0.75*{sMAPE}(final)$$
 
 
 
-## [Well location](Well_location.ipynb)
+## [Well location](Well_location/Well_location.ipynb)
 
 <image src="images/img_3.jpg">
 
